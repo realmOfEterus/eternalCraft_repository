@@ -1,0 +1,17 @@
+[
+{
+  "modid": "eternalcraft",
+  "name": "EternalCraft",
+  "description": "making minecraft realistic since 2014",
+  "version": "devBuild0.1",
+  "mcversion": "1.6.4",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Azhdev", "TheTechnicLord"],
+  "credits": "made by the Realm of Eterus",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
